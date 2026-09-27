@@ -1,0 +1,6 @@
+{
+  "name": "E Parivahan V6",
+  "description": "Smart road for, safer life. Prototype student dashboard for intelligent transport & road safety monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
